@@ -1,9 +1,8 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
-
-*[Your Cohort, Campus & Date]*
+Natália González
+Data Analytics Part-Time 0921, Campus Barcelona
 
 ## Content
 - [Project Description](#project-description)
