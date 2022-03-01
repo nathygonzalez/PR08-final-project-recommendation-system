@@ -2,6 +2,7 @@
 
 # Title of My Project
 Natália González
+
 Data Analytics Part-Time 0921, Campus Barcelona
 
 ## Content
